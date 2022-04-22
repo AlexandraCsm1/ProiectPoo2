@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: ProiectPoo2, Configuration: Debug x64 ------
+1>ProiectPoo2.cpp
+1>C:\Users\Alexandra\source\repos\ProiectPoo2\ProiectPoo2.cpp(227,16): warning C4101: 'x': unreferenced local variable
+1>C:\Users\Alexandra\source\repos\ProiectPoo2\ProiectPoo2.cpp(397,16): warning C4101: 'x': unreferenced local variable
+1>C:\Users\Alexandra\source\repos\ProiectPoo2\ProiectPoo2.cpp(487,16): warning C4101: 'x': unreferenced local variable
+1>C:\Users\Alexandra\source\repos\ProiectPoo2\ProiectPoo2.cpp(553,9): warning C4101: 'i': unreferenced local variable
+1>ProiectPoo2.vcxproj -> C:\Users\Alexandra\source\repos\ProiectPoo2\x64\Debug\ProiectPoo2.exe
+1>Done building project "ProiectPoo2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
